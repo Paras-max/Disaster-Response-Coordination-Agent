@@ -1,0 +1,557 @@
+Timestamp,City,Weather,Humidity,Risk Score,Risk Level,Boats,Medical Units,NDRF Teams
+03-11-2025 21:14,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:14,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:14,Delhi,haze,49,1.33,low,0,0,0
+03-11-2025 21:14,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:14,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:14,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:15,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:15,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:15,Delhi,haze,49,1.33,low,0,0,0
+03-11-2025 21:15,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:15,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:15,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:16,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:16,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:16,Delhi,haze,49,1.33,low,0,0,0
+03-11-2025 21:16,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:16,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:16,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:17,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:17,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:17,Delhi,haze,49,1.33,low,0,0,0
+03-11-2025 21:17,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:17,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:17,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:18,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:18,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:18,Delhi,haze,49,1.33,low,0,0,0
+03-11-2025 21:18,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:18,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:18,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:19,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:19,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:19,Delhi,haze,49,1.33,low,0,0,0
+03-11-2025 21:19,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:19,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:19,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:19,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:19,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:19,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:19,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:19,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:19,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:20,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:20,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:20,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:20,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:20,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:20,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:21,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:21,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:21,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:21,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:21,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:21,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:21,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:21,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:21,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:21,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:21,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:21,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:22,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:22,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:22,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:23,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:23,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:23,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:23,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:23,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:23,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:23,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:23,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:23,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:23,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:23,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:23,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:23,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:23,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:23,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:25,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:25,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:25,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:25,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:25,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:25,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:25,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:25,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:25,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:25,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:25,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:25,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:25,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:25,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:25,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:25,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:25,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:25,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:27,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:27,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:27,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:27,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:27,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:27,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:27,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:27,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:27,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:27,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:27,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:27,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:28,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:28,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:28,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:28,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:28,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:28,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:29,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:29,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:29,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:29,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:29,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:29,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:29,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:29,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:29,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:29,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:29,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:29,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:30,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:30,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:30,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:30,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:30,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:30,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:31,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:31,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:31,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:31,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:31,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:31,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:31,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:31,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:31,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:31,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:31,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:31,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:31,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:31,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:31,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:31,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:31,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:31,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:32,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:32,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:32,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:32,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:32,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:32,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:33,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:33,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:33,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:33,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:33,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:33,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:33,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:33,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:33,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:33,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:33,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:33,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:33,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:33,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:33,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:33,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:33,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:33,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:34,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:35,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:35,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:35,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:35,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:35,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:35,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:35,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:35,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:35,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:35,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:35,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:35,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:35,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:35,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:35,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:35,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:35,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:35,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:35,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:35,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:35,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:35,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:35,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:37,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:37,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:37,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:37,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:37,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:37,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:37,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:37,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:37,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:37,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:37,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:37,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:37,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:37,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:37,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:37,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:37,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:37,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:37,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:37,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:37,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:37,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:37,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:37,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:39,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:39,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:39,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:39,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:39,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:39,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:39,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:39,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:39,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:39,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:39,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:39,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:39,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:39,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:39,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:39,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:39,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:39,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:39,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:39,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:39,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:39,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 21:39,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:39,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:41,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:41,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:41,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:41,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:41,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:41,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:41,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:41,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:41,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:41,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:41,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:41,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:41,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:41,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:41,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:41,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:41,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:41,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:41,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:41,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:41,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:41,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:41,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:41,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:43,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:43,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:43,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:43,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:43,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:43,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:43,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:43,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:43,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:43,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:43,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:43,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:43,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:43,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:43,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:43,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:43,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:43,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+03-11-2025 21:43,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 21:43,Pune,broken clouds,94,2.45,low,0,0,0
+03-11-2025 21:43,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 21:43,Chennai,mist,84,2.2,low,0,0,0
+03-11-2025 21:43,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+03-11-2025 21:43,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+04-11-2025 14:42,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 14:42,Pune,broken clouds,48,1.3,low,0,0,0
+04-11-2025 14:42,Delhi,haze,33,0.92,low,0,0,0
+04-11-2025 14:42,Chennai,scattered clouds,73,1.93,low,0,0,0
+04-11-2025 14:42,"Phaltan, Maharashtra",broken clouds,45,1.23,low,0,0,0
+04-11-2025 14:42,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,68,1.8,low,0,0,0
+04-11-2025 14:44,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 14:44,Pune,broken clouds,48,1.3,low,0,0,0
+04-11-2025 14:44,Delhi,haze,33,0.92,low,0,0,0
+04-11-2025 14:44,Chennai,scattered clouds,73,1.93,low,0,0,0
+04-11-2025 14:44,"Phaltan, Maharashtra",broken clouds,45,1.23,low,0,0,0
+04-11-2025 14:44,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,68,1.8,low,0,0,0
+04-11-2025 21:08,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:08,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:08,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:08,Chennai,mist,88,2.3,low,0,0,0
+04-11-2025 21:08,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:08,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:08,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:08,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:08,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:08,Chennai,mist,88,2.3,low,0,0,0
+04-11-2025 21:08,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:08,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:08,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:08,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:08,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:08,Chennai,mist,88,2.3,low,0,0,0
+04-11-2025 21:08,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:08,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:09,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:09,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:09,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:09,Chennai,mist,88,2.3,low,0,0,0
+04-11-2025 21:09,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:09,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:10,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:10,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:10,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:10,Chennai,mist,88,2.3,low,0,0,0
+04-11-2025 21:10,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:10,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:10,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:10,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:10,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:10,Chennai,mist,88,2.3,low,0,0,0
+04-11-2025 21:10,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:10,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:10,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:10,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:10,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:10,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:10,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:10,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:11,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:11,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:11,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:11,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:11,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:11,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:12,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:12,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:12,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:12,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:12,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:12,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:12,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:12,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:12,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:12,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:12,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:12,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:12,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:12,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:12,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:13,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:13,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:13,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:13,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:13,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:13,Delhi,haze,60,1.6,low,0,0,0
+04-11-2025 21:13,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:13,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:13,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:20,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:20,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:20,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:20,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:20,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:20,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:20,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:20,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:20,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:20,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:20,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:20,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:20,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:20,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:20,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:20,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:20,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:20,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:20,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:20,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:20,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:20,Chennai,mist,87,2.27,low,0,0,0
+04-11-2025 21:20,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:20,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:22,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:22,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:22,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:22,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:22,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:22,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:22,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:22,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:22,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:22,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:22,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:22,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:22,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:22,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:22,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:22,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:22,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:22,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:22,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:22,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:22,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:22,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:22,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:22,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:24,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:24,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:24,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:24,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:24,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:24,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:24,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:24,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:24,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:24,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:24,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:24,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:24,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:24,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:24,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:24,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:24,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:24,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:24,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:24,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:24,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:24,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:24,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:24,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:26,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:26,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:26,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:26,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:26,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:26,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:26,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:26,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:26,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:26,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:26,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:26,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:26,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:26,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:26,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:26,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:26,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:26,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:26,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:26,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:26,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:26,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:26,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:26,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:28,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:28,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:28,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:28,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:28,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:28,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:28,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:28,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:28,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:28,Chennai,mist,85,2.23,low,0,0,0
+04-11-2025 21:28,Chennai,mist,85,2.23,low,0,0,0
+04-11-2025 21:28,Chennai,mist,85,2.23,low,0,0,0
+04-11-2025 21:28,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:28,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:28,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:28,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:28,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:28,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:28,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:28,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:28,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:28,Chennai,mist,85,2.23,low,0,0,0
+04-11-2025 21:28,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:28,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:30,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:30,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:30,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:30,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:30,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:30,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:30,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:30,Chennai,mist,85,2.23,low,0,0,0
+04-11-2025 21:30,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:30,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:30,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:30,Chennai,mist,85,2.23,low,0,0,0
+04-11-2025 21:30,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:30,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:30,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:30,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:30,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:30,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:30,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:30,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:30,Chennai,mist,85,2.23,low,0,0,0
+04-11-2025 21:30,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:30,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:32,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:32,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:32,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:32,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:32,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:36,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:36,Pune,overcast clouds,91,2.38,low,0,0,0
+04-11-2025 21:36,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:36,Chennai,mist,85,2.23,low,0,0,0
+04-11-2025 21:36,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:36,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:38,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:38,Pune,overcast clouds,78,2.05,low,0,0,0
+04-11-2025 21:38,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:38,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:38,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:38,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+04-11-2025 21:40,Mumbai,haze,74,1.95,low,0,0,0
+04-11-2025 21:40,Pune,overcast clouds,78,2.05,low,0,0,0
+04-11-2025 21:40,Delhi,haze,64,1.7,low,0,0,0
+04-11-2025 21:40,Chennai,mist,86,2.25,low,0,0,0
+04-11-2025 21:40,"Phaltan, Maharashtra",overcast clouds,82,2.15,low,0,0,0
+04-11-2025 21:40,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,79,2.08,low,0,0,0
+2025-11-05 20:09:58,Mumbai,haze,69,1.83,low,0,0,0
+2025-11-05 20:09:59,Pune,overcast clouds,74,1.95,low,0,0,0
+2025-11-05 20:09:59,Delhi,haze,61,1.62,low,0,0,0
+2025-11-05 20:10:00,Chennai,scattered clouds,82,2.15,low,0,0,0
+2025-11-05 20:10:01,"Phaltan, Maharashtra",overcast clouds,66,1.75,low,0,0,0
+2025-11-05 20:10:02,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,69,1.83,low,0,0,0
+2025-11-08 19:19:56,Mumbai,smoke,58,1.55,low,0,0,0
+2025-11-08 19:19:57,Pune,clear sky,37,1.03,low,0,0,0
+2025-11-08 19:19:58,Delhi,haze,43,1.18,low,0,0,0
+2025-11-08 19:19:59,Chennai,mist,76,2.0,low,0,0,0
+2025-11-08 19:20:00,"Phaltan, Maharashtra",clear sky,44,1.2,low,0,0,0
+2025-11-08 19:20:00,"Kalamboli, Navi Mumbai, Maharashtra",clear sky,57,1.53,low,0,0,0

@@ -1,0 +1,16 @@
+streamlit
+requests
+pandas
+geopandas
+folium
+shapely
+scikit-learn
+xgboost
+transformers
+sentence-transformers
+torch
+googlemaps
+twilio
+reportlab
+python-dotenv
+plotly

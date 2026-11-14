@@ -1,0 +1,443 @@
+Timestamp,City,Weather,Humidity,Risk Score,Risk Level,Boats,Medical Units,NDRF Teams
+30-10-2025 19:32,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:32,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:32,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:32,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:34,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:34,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:34,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:34,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:35,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:35,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:35,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:35,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:37,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:37,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:37,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:37,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:39,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:39,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:39,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:39,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:41,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:41,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:41,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:41,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:43,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:43,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:43,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:43,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:45,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:45,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:45,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:45,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:47,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:47,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:47,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:47,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:49,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:49,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:49,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:49,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:51,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:51,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:51,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:51,Chennai,few clouds,82,2.15,low,0,0,0
+30-10-2025 19:53,Mumbai,haze,74,1.95,low,0,0,0
+30-10-2025 19:53,Pune,overcast clouds,65,1.73,low,0,0,0
+30-10-2025 19:53,Delhi,mist,88,2.3,low,0,0,0
+30-10-2025 19:53,Chennai,few clouds,82,2.15,low,0,0,0
+31-10-2025 19:38,Mumbai,mist,89,2.33,low,0,0,0
+31-10-2025 19:38,Pune,broken clouds,94,2.45,low,0,0,0
+31-10-2025 19:38,Delhi,haze,65,1.73,low,0,0,0
+31-10-2025 19:38,Chennai,mist,82,2.15,low,0,0,0
+01-11-2025 19:31,Mumbai,haze,83,2.18,low,0,0,0
+01-11-2025 19:31,Pune,few clouds,92,2.4,low,0,0,0
+01-11-2025 19:31,Delhi,smoke,69,1.83,low,0,0,0
+01-11-2025 19:31,Chennai,few clouds,83,2.18,low,0,0,0
+03-11-2025 18:19,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:19,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:19,Delhi,haze,30,0.85,low,0,0,0
+03-11-2025 18:19,Chennai,mist,79,2.08,low,0,0,0
+03-11-2025 18:21,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:21,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:21,Delhi,haze,30,0.85,low,0,0,0
+03-11-2025 18:21,Chennai,mist,79,2.08,low,0,0,0
+03-11-2025 18:23,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:23,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:23,Delhi,haze,30,0.85,low,0,0,0
+03-11-2025 18:23,Chennai,mist,76,2,low,0,0,0
+03-11-2025 18:25,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:25,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:25,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:25,Chennai,mist,76,2,low,0,0,0
+03-11-2025 18:27,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:27,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:27,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:27,Chennai,mist,76,2,low,0,0,0
+03-11-2025 18:29,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:29,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:29,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:29,Chennai,mist,76,2,low,0,0,0
+03-11-2025 18:31,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:31,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:32,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:32,Chennai,mist,81,2.12,low,0,0,0
+03-11-2025 18:34,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:34,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:34,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:34,Chennai,mist,81,2.12,low,0,0,0
+03-11-2025 18:35,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:35,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:35,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:35,Chennai,mist,81,2.12,low,0,0,0
+03-11-2025 18:36,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:36,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:36,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:36,Chennai,mist,81,2.12,low,0,0,0
+03-11-2025 18:37,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:37,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:37,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:37,Chennai,mist,81,2.12,low,0,0,0
+03-11-2025 18:38,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:38,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:38,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:38,Chennai,mist,81,2.12,low,0,0,0
+03-11-2025 18:39,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:39,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:39,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:39,Chennai,mist,81,2.12,low,0,0,0
+03-11-2025 18:40,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 18:40,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:40,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:40,Chennai,mist,81,2.12,low,0,0,0
+03-11-2025 18:41,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:41,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:41,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:42,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:42,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:42,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:42,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:42,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:44,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:44,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:44,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:44,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:44,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:44,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:44,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:44,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:46,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:46,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:46,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:46,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:46,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:46,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:46,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:46,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:48,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:48,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:48,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:48,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:48,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:48,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:48,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:48,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:50,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:50,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:50,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:50,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:50,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:50,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:50,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:50,Chennai,mist,80,2.1,low,0,0,0
+03-11-2025 18:52,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:52,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:52,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:52,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 18:52,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:52,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:52,Delhi,haze,36,1,low,0,0,0
+03-11-2025 18:52,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 18:54,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:54,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:54,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 18:54,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 18:54,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:54,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:54,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 18:54,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 18:56,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:56,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:56,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 18:56,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 18:56,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:56,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:56,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 18:56,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:56,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:56,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 18:56,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 18:56,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 18:58,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:58,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:58,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 18:58,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 18:58,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:58,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 18:58,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 18:58,Delhi,haze,41,1.12,low,0,0,0
+,0,0,0,,,,,
+03-11-2025 18:58,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 18:58,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 18:58,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:00,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:00,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 19:00,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:00,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:00,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:00,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 19:00,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:00,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:00,Pune,broken clouds,87,2.27,low,0,0,0
+03-11-2025 19:00,Delhi,haze,41,1.12,low,0,0,0
+e,90,2.35,low,0,0,0,,
+03-11-2025 19:00,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:02,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:02,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:02,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:02,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:02,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:02,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:02,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:02,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:02,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:02,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:02,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:02,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:02,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:02,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:02,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:02,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:02,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:02,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:04,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:04,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:04,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:04,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:04,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:04,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:04,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:04,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:04,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:04,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:04,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:04,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:04,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:04,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:04,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:04,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:04,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:04,Chennai,light intensity drizzle,90,2.35,low,0,0,0
+03-11-2025 19:06,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:06,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:06,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:06,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:06,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:06,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:06,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:06,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:06,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:06,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:06,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:06,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:06,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:06,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:06,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:06,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:06,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:06,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:08,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:08,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:08,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:08,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:08,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:08,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:08,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:08,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:09,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:09,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:09,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:09,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:09,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:09,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:09,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:09,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:10,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:10,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:10,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:10,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:10,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:10,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:11,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:11,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:11,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:11,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:11,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:11,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:11,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:11,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:11,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:11,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:12,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:12,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:12,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:12,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:12,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:12,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:13,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:13,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:13,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:13,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:13,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:13,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:13,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:13,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:13,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:13,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:14,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:14,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:14,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:14,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:14,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:14,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:15,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:15,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:15,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:15,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:15,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:15,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:15,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:15,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:15,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:15,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:16,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:16,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:16,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:16,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:16,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:16,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:17,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:17,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:17,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:17,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:17,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:17,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:17,Delhi,haze,41,1.12,low,0,0,0
+03-11-2025 19:17,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:18,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:18,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:18,Mumbai,haze,78,2.05,low,0,0,0
+03-11-2025 19:18,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:18,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:18,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:18,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:18,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:19,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 19:19,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:19,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:19,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:20,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 19:20,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:20,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:20,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:20,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:20,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:20,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 19:20,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:20,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:20,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:20,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:20,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:21,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 19:21,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:21,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:21,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:22,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 19:22,Pune,broken clouds,90,2.35,low,0,0,0
+03-11-2025 19:22,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:22,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:22,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:22,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:22,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 19:22,Pune,broken clouds,91,2.38,low,0,0,0
+03-11-2025 19:22,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:22,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:22,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:22,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:24,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 19:24,Pune,broken clouds,91,2.38,low,0,0,0
+03-11-2025 19:24,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:24,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:24,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:24,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:24,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 19:24,Pune,broken clouds,91,2.38,low,0,0,0
+03-11-2025 19:24,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:24,Chennai,mist,91,2.38,low,0,0,0
+03-11-2025 19:24,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:24,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+03-11-2025 19:34,Mumbai,haze,83,2.18,low,0,0,0
+03-11-2025 19:34,Pune,broken clouds,76,2,low,0,0,0
+03-11-2025 19:34,Delhi,haze,43,1.18,low,0,0,0
+03-11-2025 19:34,Chennai,mist,92,2.4,low,0,0,0
+03-11-2025 19:34,"Phaltan, Maharashtra",broken clouds,81,2.12,low,0,0,0
+03-11-2025 19:34,"Kalamboli, Navi Mumbai, Maharashtra",broken clouds,82,2.15,low,0,0,0
+2025-11-03 21:06:42,Mumbai,haze,83,2.18,low,0,0,0
+2025-11-03 21:06:43,Pune,broken clouds,94,2.45,low,0,0,0
+2025-11-03 21:06:44,Delhi,haze,49,1.33,low,0,0,0
+2025-11-03 21:06:45,Chennai,mist,92,2.4,low,0,0,0
+2025-11-03 21:06:46,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+2025-11-03 21:06:47,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+2025-11-03 21:07:15,Mumbai,haze,83,2.18,low,0,0,0
+2025-11-03 21:07:16,Pune,broken clouds,94,2.45,low,0,0,0
+2025-11-03 21:07:17,Delhi,haze,49,1.33,low,0,0,0
+2025-11-03 21:07:18,Chennai,mist,92,2.4,low,0,0,0
+2025-11-03 21:07:19,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+2025-11-03 21:07:20,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+2025-11-03 21:08:48,Mumbai,haze,83,2.18,low,0,0,0
+2025-11-03 21:08:48,Pune,broken clouds,94,2.45,low,0,0,0
+2025-11-03 21:08:48,Delhi,haze,49,1.33,low,0,0,0
+2025-11-03 21:08:49,Chennai,mist,92,2.4,low,0,0,0
+2025-11-03 21:08:49,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+2025-11-03 21:08:49,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+2025-11-03 21:09:21,Mumbai,haze,83,2.18,low,0,0,0
+2025-11-03 21:09:21,Pune,broken clouds,94,2.45,low,0,0,0
+2025-11-03 21:09:22,Delhi,haze,49,1.33,low,0,0,0
+2025-11-03 21:09:23,Chennai,mist,92,2.4,low,0,0,0
+2025-11-03 21:09:24,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+2025-11-03 21:09:24,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+2025-11-03 21:10:49,Mumbai,haze,83,2.18,low,0,0,0
+2025-11-03 21:10:50,Pune,broken clouds,94,2.45,low,0,0,0
+2025-11-03 21:10:50,Delhi,haze,49,1.33,low,0,0,0
+2025-11-03 21:10:50,Chennai,mist,92,2.4,low,0,0,0
+2025-11-03 21:10:51,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+2025-11-03 21:10:51,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+2025-11-03 21:11:25,Mumbai,haze,83,2.18,low,0,0,0
+2025-11-03 21:11:26,Pune,broken clouds,94,2.45,low,0,0,0
+2025-11-03 21:11:27,Delhi,haze,49,1.33,low,0,0,0
+2025-11-03 21:11:28,Chennai,mist,92,2.4,low,0,0,0
+2025-11-03 21:11:28,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+2025-11-03 21:11:29,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+2025-11-03 21:12:52,Mumbai,haze,83,2.18,low,0,0,0
+2025-11-03 21:12:52,Pune,broken clouds,94,2.45,low,0,0,0
+2025-11-03 21:12:54,Delhi,haze,49,1.33,low,0,0,0
+2025-11-03 21:12:54,Chennai,mist,92,2.4,low,0,0,0
+2025-11-03 21:12:55,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+2025-11-03 21:12:56,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
+2025-11-03 21:13:29,Mumbai,haze,83,2.18,low,0,0,0
+2025-11-03 21:13:30,Pune,broken clouds,94,2.45,low,0,0,0
+2025-11-03 21:13:31,Delhi,haze,49,1.33,low,0,0,0
+2025-11-03 21:13:31,Chennai,mist,92,2.4,low,0,0,0
+2025-11-03 21:13:32,"Phaltan, Maharashtra",scattered clouds,87,2.27,low,0,0,0
+2025-11-03 21:13:32,"Kalamboli, Navi Mumbai, Maharashtra",overcast clouds,84,2.2,low,0,0,0
